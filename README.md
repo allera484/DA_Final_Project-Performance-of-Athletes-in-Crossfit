@@ -56,8 +56,16 @@ This data includes information on athlete demographics, such as age, gender, hei
 2. # Data Cleaning:
     - To clean up the date, use the athletes.ipynb notebook located in the notebook directory. The data/clean directory will house the   
     cleansed data.
-3. # Hypothesis Testing:
-   - Run the athletes 
+ 3. **Graphs and Hypothesis Testing:**
+ - Create graph and tables with Juoyter Notebooks from the 'notebook' directory.
+
+# Conclusion 
+Investigate more insight the relation between diet habits and performance on athletes
+Performed the Analysis with a bigger Data Set,  more variability on female gender and regions around the world to assess with more details the performance on athletes
+Null Values: Too much Null values in all categories. 
+This project could provide useful insight information into the characteristics and performance of Crossfit Athletes, enabling crossfit trainers develop evidence-based science training programs that support athletes to achieve their highest performance, optimize their physical abilities and reduce the risk of injury.
 
 
+# Contact
+github
 
