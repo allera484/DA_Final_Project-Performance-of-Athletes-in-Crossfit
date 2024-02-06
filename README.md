@@ -31,7 +31,7 @@ This is the final project of the Data Analyst Course at Iron Hack. To understand
 # Technologies 
 List of Technologies and librarie used: 
   - # Technologies
-      - Jupither Noteboo
+      - Jupyther Notebook
       - Python
 
   -  # Libraries
@@ -49,6 +49,15 @@ This a valuable dataset collected from competitions and events around the world 
 
 This data includes information on athlete demographics, such as age, gender, height, weight, and training experience, as well as performance metrics, such as time, weight lifted, eat habits and background as athlete. It was performed a comprehensive exploratory data analysis (EDA) using python tools such as Pandas, Matplotlib, Seaborn, Numpy, Plotly Graph and Plotly Express in order to identify patterns, distributions, correlations, and possible outliers in these datasets. It was work through complexities of the datasets to make sure that any problems with data cleaning were quickly resolved, to determine the integrity and dependability of the results. These dataset will form the foundation insights to provide a wealth information on athlete performance in differente context and settings
 
+# Steps for Reproducing the data 
+
+1. # Original Data:
+    - Open the data/raw directory to view the original dataset.
+2. # Data Cleaning:
+    - To clean up the date, use the athletes.ipynb notebook located in the notebook directory. The data/clean directory will house the   
+    cleansed data.
+3. # Hypothesis Testing:
+   - Run the athletes 
 
 
 
